@@ -1,0 +1,5 @@
+{
+  "name": "React Pac-Man",
+  "description": "A simple Pac-Man game built with React and Tailwind CSS. Use the arrow keys to move Pac-Man, eat all the dots to win, and avoid the ghosts!",
+  "requestFramePermissions": []
+}
